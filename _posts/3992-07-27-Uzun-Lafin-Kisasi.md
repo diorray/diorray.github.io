@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Freedom Ulan
+title: Uzun Lafın Kısası
 ---
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=4hZiTBclWeU" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/4hZiTBclWeU" frameborder="0" allowfullscreen></iframe>
